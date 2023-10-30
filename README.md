@@ -55,7 +55,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Sprint 0 | 25/09/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Sprint 1|  16/10/2023| Concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Sprint 1|  16/10/2023| Concluído |[Ver Relatório](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Relat%C3%B3rios/API%20II_TR%C3%82MITES%20INTERNACIONAIS%20DE%20EXPORTA%C3%87%C3%83O%20E%20IMPORTA%C3%87%C3%83O%20AN%C3%81LISE%20LOG%C3%8DSTICA_1%20Sprint.docx) | 
 |Sprint 2| 06/11/2023 | Em andamento|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Sprint 3| 27/11/2023 |Em breve |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |Em breve |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
