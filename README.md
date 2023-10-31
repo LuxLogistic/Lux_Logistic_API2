@@ -86,8 +86,14 @@ Requisitos não funcionais
 # Backlog do produto
   
 <div align="center">
-    
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
+ 
+ ### Requisitos funcionais
+ 
+![product backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Requisitos%20funcionais.png)
+
+ ### Requisitos não funcionais
+
+ ![product backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Requisitos%20n%C3%A3o%20funcionais.png)
 </div>
 
 # Backlog das Sprints
@@ -95,7 +101,7 @@ Requisitos não funcionais
 <div align="center">
 
  ### 1ª - Sprint
- ![sprint backlog]()
+ ![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Backlog%20-%201%C2%AA%20Sprint.png)
 
  ### 2ª - Sprint
 ![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Backlog%20-%202%C2%AA%20Sprint.png)
