@@ -154,12 +154,13 @@ Requisitos não funcionais
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+Apresentação das funcionalidades - 
+Confira a seguir uma demonstração das funcionalidades 
 
-Adicionar video e documentos nessa seção
+### MVP -  Minimum Viable Product
 
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
+![Nome do Vídeo](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Power%20BI/LuxLogistic-PowerBI-Fase-2-Power-BI%20-%20GIF.gif)
+
 
 # Competências desenvolvidas
 
