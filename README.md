@@ -105,6 +105,10 @@ Requisitos não funcionais
 
  ### 2ª - Sprint
 ![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Backlog%20-%202%C2%AA%20Sprint.png)
+
+### 3ª - Sprint
+![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Backlog%20-%203%C2%AA%20Sprint.png)
+
 </div>
 
 
