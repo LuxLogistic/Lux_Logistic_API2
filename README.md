@@ -120,13 +120,17 @@ Requisitos não funcionais
 
 ![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Burnup%20%E2%80%93%20Tempo%20-%201%C2%AA%20Sprint.png)
 
+</details>
+
+<details>
+ 
 <summary> 2ª SPRINT </summary>
  
 ![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Gr%C3%A1fico%20de%20Gant%20-%201%C2%AA%20Sprint.png)
 
-![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Burndown%20-%20Itens%20-%201%C2%AA%20Sprint.png)
+![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Burndown%20-%20Itens%20-%202%C2%AA%20Sprint.png.PNG)
 
-![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Burnup%20%E2%80%93%20Tempo%20-%201%C2%AA%20Sprint.png)
+![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Burnup%20%E2%80%93%20Tempo%20-%202%C2%AA%20Sprint.png.PNG)
 
 </details>
 
