@@ -148,18 +148,13 @@ Requisitos não funcionais
 - [x] Contato com o cliente;
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [x] Construção do BI
 - [x] Modelagem das Bases de importação e exportação
 - [x] Pesquisas das áreas de insteresse para construção do projeto    
       
 ## Sprint 2 . Implementação
-- [x] 
-- [x]
-- [ ]
-- [ ]
-- [ ] 
-- [x] 
-- [x] 
+- [x] Construção do BI
+- [x] Modelagem das bases com foco nos 5 municípios escolhidos [[Requisitos](#requisitos-template)]
+- [x]  Modelagem das bases com foco no potencial item exportado por SJC
 
       
 ## Sprint 3. Operacionalização
