@@ -170,10 +170,9 @@ Requisitos não funcionais
 
       
 ## Sprint 3. Operacionalização
-- [x] 
-- [ ]
-- [ ]
-- [ ] 
+- [x] Finalização do BI
+- [x] Aplicação de Logística Verde - Estimativa da Emissão de CO2
+- [x] Modelagem das bases com foco na probabilidade (Previsão) da EXP de SJC e Br 
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
