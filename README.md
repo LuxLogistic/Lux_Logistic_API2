@@ -138,6 +138,18 @@ Requisitos não funcionais
 
 </details>
 
+<details>
+ 
+<summary> 3ª SPRINT </summary>
+ 
+![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Gr%C3%A1fico%20de%20Gant%20-%203%C2%AA%20Sprint.png)
+
+![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Burndown%20-%20Itens%20-%203%C2%AA%20Sprint.png)
+
+![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Burnup%20%E2%80%93%20Tempo%20-%203%C2%AA%20Sprint.png)
+
+</details>
+
 ## Sprint 0. Concepção
 - [x] Estrutura do backlog;
 - [x] Delimitação de tarefas;
@@ -168,10 +180,13 @@ Requisitos não funcionais
 Apresentação das funcionalidades - 
 Confira a seguir uma demonstração das funcionalidades 
 
-### MVP -  Minimum Viable Product
+### MVP -  Minimum Viable Product - 2ª Sprint
 
 ![Nome do Vídeo](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Power%20BI/LuxLogistic-PowerBI-Fase-2-Power-BI%20-%20GIF.gif)
 
+### MVP -  Minimum Viable Product - 3ª Sprint
+
+![Nome do Vídeo](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Power%20BI/Funcionalidades%20-%20Power%20BI%20-%203%C2%AA%20Sprint.gif)
 
 # Competências desenvolvidas
 
